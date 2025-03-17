@@ -814,9 +814,9 @@ jupyterlab-widgets==3.0.13; python_version >= '3.7' \
 kafka-python-ng==2.2.3; python_version >= '3.8' \
     --hash=sha256:adc6e82147c441ca4ae1f22e291fc08efab0d10971cbd4aa1481d2ffa38e9480 \
     --hash=sha256:f79f28e10ade9b5a9860b2ec15b7cc8dc510d5702f5a399430478cff5f93a05a
-keras==2.14.0; python_version >= '3.9' \
-    --hash=sha256:22788bdbc86d9988794fe9703bb5205141da797c4faeeb59497c58c3d94d34ed \
-    --hash=sha256:d7429d1d2131cc7eb1f2ea2ec330227c7d9d38dab3dfdf2e78defee4ecc43fcd
+keras==3.9.0; python_version >= '3.9' \
+    --hash=sha256:71078e833994384f45d5ea192d18f0969a12bd2572a5d15968c755945ad91d1c \
+    --hash=sha256:b5bf04e7c64c3176eda5124d035005bb7a676fb505f42496c7b03a99d5683652
 kiwisolver==1.4.8; python_version >= '3.10' \
     --hash=sha256:01c3d31902c7db5fb6182832713d3b4122ad9317c2c5877d0539227d96bb2e50 \
     --hash=sha256:034d2c891f76bd3edbdb3ea11140d8510dca675443da7304205a2eaa45d8334c \
