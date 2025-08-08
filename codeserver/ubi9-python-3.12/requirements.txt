@@ -397,9 +397,9 @@ kiwisolver==1.4.8; python_version >= '3.10' \
     --hash=sha256:eb158fe28ca0c29f2260cca8c43005329ad58452c36f0edf298204de32a9a3ed \
     --hash=sha256:ed33ca2002a779a2e20eeb06aea7721b6e47f2d4b8a8ece979d8ba9e2a167e34 \
     --hash=sha256:fc2ace710ba7c1dfd1a3b42530b62b9ceed115f19a1656adefce7b1782a37794
-kubeflow-training==1.9.2 \
-    --hash=sha256:f99dd637d915f686331597f1c983ee133f61e69fa470c179d9d041912e82834d \
-    --hash=sha256:fdba63093c38eb7a5c56c3cfd30ed9f57367330af9b84bc318b56bca1d307da7
+kubeflow-training==1.9.3 \
+    --hash=sha256:9033752cf32467bb93d0b6706b40445d29bc85b115a57b892aabfead6c88cd5c \
+    --hash=sha256:f13634679b506119eb514164179a98b1963d8a59ba1c491eb43631b32d65576a
 kubernetes==33.1.0; python_version >= '3.6' \
     --hash=sha256:544de42b24b64287f7e0aa9513c93cb503f7f40eea39b20f66810011a86eabc5 \
     --hash=sha256:f64d829843a54c251061a8e7a14523b521f2dc5c896cf6d65ccf348648a88993

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8c59bca9f11b751151ade7726c059a2832df17fa6d0ff1120cce857fda847ed9"
+            "sha256": "f623b01e6a03a62d90d9507eafcb7502bec53047a270ec3c572b75f95323b292"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1684,11 +1684,11 @@
         },
         "kubeflow-training": {
             "hashes": [
-                "sha256:f99dd637d915f686331597f1c983ee133f61e69fa470c179d9d041912e82834d",
-                "sha256:fdba63093c38eb7a5c56c3cfd30ed9f57367330af9b84bc318b56bca1d307da7"
+                "sha256:9033752cf32467bb93d0b6706b40445d29bc85b115a57b892aabfead6c88cd5c",
+                "sha256:f13634679b506119eb514164179a98b1963d8a59ba1c491eb43631b32d65576a"
             ],
             "index": "pypi",
-            "version": "==1.9.2"
+            "version": "==1.9.3"
         },
         "kubernetes": {
             "hashes": [
@@ -2954,6 +2954,7 @@
                 "sha256:4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35",
                 "sha256:5c5d0a3b48ceee0b48485e0c26037c0acd7d29765ca3fbb5cb3831d347423220"
             ],
+            "markers": "os_name != 'nt'",
             "version": "==0.7.0"
         },
         "pure-eval": {
